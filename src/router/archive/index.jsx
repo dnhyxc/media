@@ -1,10 +1,11 @@
-import React, { Component } from 'react';
-import App from './router'
+import React, { Component } from 'react'
 
 export default class componentName extends Component {
   render() {
     return (
-      <App />
+      <div>
+        archive
+      </div>
     )
   }
 }
